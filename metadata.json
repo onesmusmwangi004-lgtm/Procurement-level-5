@@ -1,0 +1,6 @@
+{
+  "name": "KNEC Level 5 Supply Chain Hub",
+  "description": "Comprehensive KNEC accredited Level 5 Supply Chain Management study portal, featuring in-depth revision notes, curriculum units, interactive KNEC question bank, formula calculators, and AI deep-dive tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
